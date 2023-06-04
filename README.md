@@ -7,6 +7,8 @@ In this specific code, the random module is used to randomly select an option fo
 The line computer_input = random.choice(possible_options) utilizes the random.choice() function to randomly select an option ('s', 'p', or 'c') from the possible_options list and assigns it to the variable computer_input. This random selection simulates the computer's choice in the game.
 
 **CODE**
+
+
 The code imports the random module, which allows us to generate random numbers and make random choices.
 
 The user is prompted to enter their choice (either 'S', 'P', or 'C').
